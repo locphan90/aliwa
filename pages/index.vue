@@ -95,7 +95,7 @@
           Sẵn sàng bắt đầu dự án của bạn?
         </h2>
         <p class="text-lg lg:text-xl text-gray-600 mb-10 max-w-2xl mx-auto leading-relaxed">
-          Hãy liên hệ với chúng tôi ngay hôm nay để được tư vấn miễn phí và nhận báo giá tốt nhất
+          Hãy liên hệ với tôi ngay hôm nay để được tư vấn miễn phí và nhận báo giá tốt nhất
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
           <NuxtLink 
